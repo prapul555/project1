@@ -252,12 +252,12 @@ img {
 
 
 /*--banner --*/ 
-.banner-w3l{
+.banner-propz project{
 	background:url(../images/banner.jpg) no-repeat 0px -199px;
 	background-size:cover;
 	min-height:650px;
 }
-.banner-w3l h3 {
+.banner-propz project h3 {
     text-align:center;
 	padding-top:15%;
 	color:#eee;
@@ -271,7 +271,7 @@ label.line {
     margin: 30px auto;
     display: block;
 }
-.banner-w3l h2 {
+.banner-propz project h2 {
     border: 2px solid #fff;
     width: 25%;
     font-size: 40px;
@@ -322,7 +322,7 @@ p.propz project{
 .banner-btm-right-propz project-one{
 	padding-right:8px;
 }
-.banner-btm-right-prpz project-two {
+.banner-btm-right-propz project-two {
     padding-left: 8px;
 }
 .gap{
@@ -1548,7 +1548,7 @@ p.post a {
 	}
 }
 @media screen and (max-width: 1080px){
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -135px;
 		background-size: cover;
 		min-height: 510px;
