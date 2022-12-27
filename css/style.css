@@ -1,6 +1,6 @@
 /*--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
+	Author: PROPZ Project
+	Author URL: http://PROPZ Project.com
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -293,47 +293,47 @@ label.line {
 /*--//banner --*/ 
 
 /*-- banner-bottom--*/
-.banner-btm-w3-agile,.services-wthree,.services-bottom,.w3layouts-gal,.contact-agile,.blog-section,.team-section,.main-grid-border,.about-w3layouts{
+.banner-btm-pp-agile,.services-propz project,.services-bottom,.PROPZ Project-gal,.contact-agile,.blog-section,.team-section,.main-grid-border,.about-PROPZ Project{
 	padding:50px 0;
 } 
-.banner-btm-left-w3ls h3, .services-wthree h3, .footer-middle-w3-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-wthree h2,.team-section h2,.sub-banner-wthree h3,.about-bottom h3{
+.banner-btm-left-propz project h3, .services-propz project h3, .footer-middle-pp-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-propz project h2,.team-section h2,.sub-banner-propz project h3,.about-bottom h3{
     font-size: 40px;
     color: #292929;
     letter-spacing: 3px;
 }
-.banner-btm-left-w3ls h3 {
+.banner-btm-left-propz project h3 {
 	margin-top:50px;
 }
-.banner-btm-left-w3ls h4, .service-grids h4, .services-bottom-right h4 ,.services-bottom-left h4,h3.agileits-icons-title,.typography h3.head-top,.about-text-w3ls h4{
+.banner-btm-left-propz project h4, .service-grids h4, .services-bottom-right h4 ,.services-bottom-left h4,h3.agileits-icons-title,.typography h3.head-top,.about-text-propz project h4{
     font-size: 23px;
     color: #F44336;
     margin: 10px 0 30px 0;
     letter-spacing: 2px;
 }
-.banner-btm-left-w3ls p,.service-grids p,.services-bottom-left p,.services-bottom-right p,.footer-left-agile p ,.single-img p,.well,.but_list p,.team-grid p,.about-text-w3ls p ,.about-bottom p{
+.banner-btm-left-propz project p,.service-grids p,.services-bottom-left p,.services-bottom-right p,.footer-left-agile p ,.single-img p,.well,.but_list p,.team-grid p,.about-text-propz project p ,.about-bottom p{
 	font-size:14px;
 	color:#999;
 	line-height:30px;
 	text-align:center;
 }
-p.w3layouts{
+p.propz project{
 	margin-top:30px;
 }
-.banner-btm-right-w3ls-one{
+.banner-btm-right-propz project-one{
 	padding-right:8px;
 }
-.banner-btm-right-w3ls-two {
+.banner-btm-right-prpz project-two {
     padding-left: 8px;
 }
 .gap{
 	margin-bottom:16px;
 }
-.banner-btm-w3-agile img {
+.banner-btm-pp-agile img {
     width: 100%;
     
 }
 
-.banner-btm-w3-agile  .grid figure {
+.banner-btm-pp-agile  .grid figure {
 	position: relative;
 	float: left;
 	overflow: hidden;
@@ -344,18 +344,18 @@ p.w3layouts{
 	margin-top:15px;
 }
 
-.banner-btm-w3-agile  figcaption {
+.banner-btm-pp-agile  figcaption {
 	background-color: transparent;
 }
 
-.banner-btm-w3-agile .grid figure img {
+.banner-btm-pp-agile .grid figure img {
 	position: relative;
 	display: block;
 	max-width: 100%;
 	opacity: 0.8;
 }
 
-.banner-btm-w3-agile  .grid figure figcaption {
+.banner-btm-pp-agile  .grid figure figcaption {
 	padding: 7em;
 	color: #fff;
 	text-transform: uppercase;
@@ -364,11 +364,11 @@ p.w3layouts{
 	backface-visibility: hidden;
 }
 
-.banner-btm-w3-agile .grid figure figcaption::before, .grid figure figcaption::after {
+.banner-btm-pp-agile .grid figure figcaption::before, .grid figure figcaption::after {
 	pointer-events: none;
 }
 
-.banner-btm-w3-agile  .grid figure figcaption, .grid figure figcaption > a {
+.banner-btm-pp-agile  .grid figure figcaption, .grid figure figcaption > a {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -377,7 +377,7 @@ p.w3layouts{
 }
 
 
-.banner-btm-w3-agile  figure.effect-apollo img {
+.banner-btm-pp-agile  figure.effect-apollo img {
 	opacity: 0.95;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
@@ -385,7 +385,7 @@ p.w3layouts{
 	transform: scale3d(1.05,1.05,1);
 }
 
-.banner-btm-w3-agile  figure.effect-apollo figcaption::before {
+.banner-btm-pp-agile  figure.effect-apollo figcaption::before {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -399,27 +399,27 @@ p.w3layouts{
 	transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,-100%,0);
 }
 
-.banner-btm-w3-agile  figure.effect-apollo:hover img {
+.banner-btm-pp-agile  figure.effect-apollo:hover img {
 	opacity: 0.6;
 	-webkit-transform: scale3d(1,1,1);
 	transform: scale3d(1,1,1);
 }
 
-.banner-btm-w3-agile  figure.effect-apollo:hover figcaption::before {
+.banner-btm-pp-agile  figure.effect-apollo:hover figcaption::before {
 	-webkit-transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,100%,0);
 	transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,100%,0);
 }
 /*--//banner-bottom --*/ 
 
 /*-- services --*/ 
-.services-wthree{
+.services-propz project{
 	background:url(../images/servicesbg.jpg) no-repeat 0px 0px;
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
 }
-.services-wthree h3{
+.services-propz project h3{
 	color:#fff;
 }
 
@@ -575,13 +575,13 @@ p.stats-info {
 
 
 /*-- footer --*/ 
-.footer-agileits-w3layouts {
+.footer-agileits-propz project {
     background:#141414;
 }
-.footer-left-agile,.footer-middle-w3-agileits{
+.footer-left-agile,.footer-middle-pp-agileits{
 	padding:30px 0;
 }
-.footer-left-agile h1,.footer-middle-w3-agileits h3{
+.footer-left-agile h1,.footer-middle-pp-agileits h3{
 	text-align:left;
 	margin-bottom:30px;
 }
@@ -595,31 +595,31 @@ p.stats-info {
     color: #a6a6a6;
 	text-align:left;
 }
-.footer-middle-w3-agileits h3, .footer-right-w3layouts h3 {
+.footer-middle-pp-agileits h3, .footer-right-propz project h3 {
     color: #eee;
     font-size: 30px;
     text-align: left;
 }
-.footer-middle-w3-agileits ul li{
+.footer-middle-pp-agileits ul li{
 	display:inline;
 	color: #a6a6a6;
 	font-size:14px;
 }
-.footer-middle-w3-agileits .glyphicon{
+.footer-middle-pp-agileits .glyphicon{
     color: #eee;
     margin-right: 10px;
 }
-.footer-middle-w3-agileits ul li a{
+.footer-middle-pp-agileits ul li a{
 	color: #a6a6a6;
 }
 ul.gap{
 	margin:15px 0;
 }
-.footer-right-w3layouts{
+.footer-right-PROPZ Project{
 	background:#F44336;
 	padding:30px;
 }
-.footer-right-w3layouts input[type="text"] {
+.footer-right-PROPZ Project input[type="text"] {
     width: 100%;
     padding:10px;
     border: none;
@@ -631,7 +631,7 @@ ul.gap{
     border-bottom: 1px solid #fff;
     margin: 5px 0;
 }
-.footer-right-w3layouts input[type="submit"] {
+.footer-right-PROPZ Project input[type="submit"] {
 	background: #141414;
 	border:2px solid transparent;
 	color:#eee;
@@ -644,29 +644,29 @@ ul.gap{
 	-o-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
-.footer-right-w3layouts input[type="submit"]:hover {
+.footer-right-PROPZ Project input[type="submit"]:hover {
     border: 2px solid #000;
     background: transparent;
 }
-.copy-w3-agileits{
+.copy-pp-agileits{
 	background:#000;
 	padding:20px 0;
 }
-.copy-w3-agileits p{
+.copy-pp-agileits p{
 	color:#eee;
 	font-size:14px;
 }
-.copy-w3-agileits p a{
+.copy-pp-agileits p a{
 	color:#eee;
 }
-.copy-w3-agileits p a:hover{
+.copy-pp-agileits p a:hover{
 	text-decoration:underline;
 }
 /*--//footer--*/
  
 /*--about--*/
 
-.about-left-w3-agileits {
+.about-left-pp-agileits {
      background: url(../images/about.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -676,7 +676,7 @@ ul.gap{
     min-height: 649px;
     float: left;
 }
-.about-left-w3-agileits  ul li{
+.about-left-pp-agileits  ul li{
 	width:100%;
 }
 .callbacks_container {
@@ -918,29 +918,29 @@ ul.gap{
 	-ms-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
-.about-text-w3ls {
+.about-text-propz project {
     width: 40%;
     margin: 60px  0 60px 5%;
 }
-.about-text-w3ls h4,.about-text-w3ls p{
+.about-text-propz project h4,.about-text-propz project p{
 	text-align:left;
 }
-.about-text-w3ls h4{
+.about-text-propz project h4{
 	font-size:30px;
 }
-p.agileits-wthree{
+p.agileits-propz project{
 	margin:30px 0;
 }
 .team-grid p{
 	margin:15px 0;
 }
-.about-social-icons-w3-agile ul{
+.about-social-icons-pp-agile ul{
 	text-align:center;
 }
-.about-social-icons-w3-agile ul li {
+.about-social-icons-pp-agile ul li {
 	display:inline;
 }
-.about-social-icons-w3-agile ul li .fa {
+.about-social-icons-pp-agile ul li .fa {
     color: #4a4848;
     font-size: 20px;
     padding: 10px;
@@ -974,7 +974,7 @@ p.agileits-wthree{
 
 
 /*-- portfolio --*/ 
-.sub-banner-wthree {
+.sub-banner-propz project {
     background: url(../images/banner.jpg) no-repeat 0px -399px;
     background-size: cover;
     min-height: 300px;
@@ -1098,16 +1098,16 @@ ul.simplefilter {
     margin: 1%;
 }
 
-.footer-right-w3layouts::-webkit-input-placeholder{
+.footer-right-propz project::-webkit-input-placeholder{
 color:#fff !important;
 }
-.footer-right-w3layouts:-moz-placeholder {
+.footer-right-propz project:-moz-placeholder {
 	color: #fff;
 }
-.footer-right-w3layouts::-moz-placeholder {
+.footer-right-propz project::-moz-placeholder {
 	color:#fff;
 }
-.footer-right-w3layouts:-ms-input-placeholder {
+.footer-right-propz project:-ms-input-placeholder {
 	color:#fff;
 }
 .icons .bs-glyphicons .glyphicon {
@@ -1163,10 +1163,10 @@ table.table  h1,table.table  h2,table.table  h3,table.table  h4,table.table  h5,
 
 
 /*--Contact --*/
-.team-section h2,.services-wthree h3,.services-bottom h3{
+.team-section h2,.services-propz project h3,.services-bottom h3{
 	margin-bottom:35px;
 }
- .sub-banner-wthree h2, .sub-banner-wthree h3{
+ .sub-banner-propz project h2, .sub-banner-propz project h3{
 	color: #e6e6e6;
 	padding:125px 0;
  }
@@ -1535,15 +1535,15 @@ p.post a {
 	.arrow {
 		padding-top: 15%;
 	}
-	.about-text-w3ls {
+	.about-text-propz project {
 		margin: 40px 0 40px 5%;
 	}
 }
 @media screen and (max-width: 1280px){
-	.about-text-w3ls {
+	.about-text-propz project {
 		margin: 18px 0 40px 4%;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits {
+	.footer-left-agile, .footer-middle-propz-agileits {
 		padding: 40px 0;
 	}
 }
@@ -1566,11 +1566,11 @@ p.post a {
 	.callbacks_nav.prev {
 		left: -0.5%;
 	}
-	.about-text-w3ls {
+	.about-text-propz project {
 		width: 50%;
 		margin: 1.5% 0 0 0;
 	}
-	.footer-right-w3layouts {
+	.footer-right-propz project {
 		padding: 42px 35px;
 	}
 	.footer-left-agile p {
@@ -1585,12 +1585,12 @@ p.post a {
 		background: url("../images/statsbg.jpg") no-repeat 0px -227px;
 		background-size:cover;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -399px;
 		background-size: cover;
 		min-height: 273px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 108px 0;
 	}
@@ -1618,30 +1618,30 @@ p.post a {
 		width: 30%;
 		float: left;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 28%;
 	}
-	.banner-btm-left-w3ls h3, .services-wthree h3, .footer-middle-w3-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-wthree h2,.team-section h2,.sub-banner-wthree h3,.about-bottom h3{
+	.banner-btm-left-propz project h3, .services-propz project h3, .footer-middle-pp-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-propz project h2,.team-section h2,.sub-banner-propz project h3,.about-bottom h3{
 		font-size: 35px;
 	}
-	.banner-btm-left-w3ls h4, .service-grids h4, .services-bottom-right h4, .services-bottom-left h4, h3.agileits-icons-title, .typography h3.head-top, .about-text-w3ls h4 {
+	.banner-btm-left-propz project h4, .service-grids h4, .services-bottom-right h4, .services-bottom-left h4, h3.agileits-icons-title, .typography h3.head-top, .about-text-propz project h4 {
 		margin: 10px 0 20px 0;
 	}
-	.banner-btm-left-w3ls p, .service-grids p, .services-bottom-left p, .services-bottom-right p, .footer-left-agile p, .single-img p, .well, .but_list p, .team-grid p, .about-text-w3ls p, .about-bottom p {
+	.banner-btm-left-propz project p, .service-grids p, .services-bottom-left p, .services-bottom-right p, .footer-left-agile p, .single-img p, .well, .but_list p, .team-grid p, .about-text-propz project p, .about-bottom p {
 		font-size: 13px;
 		line-height: 27px;
 	}
-	.banner-btm-left-w3ls h3 {
+	.banner-btm-left-propz project h3 {
 		margin-top: 0;
 	}
-	p.w3layouts {
+	p.propz project {
 		margin-top: 15px;
 	}
-	.banner-btm-left-w3ls,.banner-btm-right-w3ls,.banner-btm-right-w3ls-one,.banner-btm-right-w3ls-two {
+	.banner-btm-left-propz project,.banner-btm-right-propz project,.banner-btm-right-propz project-one,.banner-btm-right-propz project-two {
 		width: 50%;
 		float: left;
 	}
-	.banner-btm-left-w3ls,.banner-btm-right-w3ls{
+	.banner-btm-left-propz project,.banner-btm-right-propz project{
 		padding:0;
 	}
 	.service-grids {
@@ -1687,19 +1687,19 @@ p.post a {
 	.subscribe input[type="text"] {
 		width: 40%;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits,.footer-right-w3layouts {
+	.footer-left-agile, .footer-middle-pp-agileits,.footer-right-propz project {
 		width: 33.3%;
 		float: left;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits {
+	.footer-left-agile, .footer-middle-pp-agileits {
 		padding: 32px 0;
 	}
-	.about-left-w3-agileits ,.about-text-w3ls {
+	.about-left-pp-agileits ,.about-text-propz project {
 		width: 50%;
 		float: left;
 		margin:0;
 	}
-	.about-left-w3-agileits {
+	.about-left-pp-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 565px;
@@ -1726,49 +1726,49 @@ p.post a {
 		width: 80%;
 		float: left;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -399px;
 		background-size: cover;
 		min-height: 228px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 98px 0;
 	}
 }
 @media screen and (max-width: 900px){
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 452px;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 32%;
 	}
-	.about-left-w3-agileits {
+	.about-left-pp-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 555px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -355px;
 		background-size: cover;
 		min-height: 228px;
 	}
 }
 @media screen and (max-width: 800px){
-	.banner-w3l h3 {
+	.banner-propz project h3 {
 		text-align: center;
 		padding-top: 11%;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 387px;
 	}
-	.about-left-w3-agileits {
+	.about-left-pp-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 440px;
 		width:100%;
 	}
-	.about-left-w3-agileits {
+	.about-left-pp-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 440px;
@@ -1783,7 +1783,7 @@ p.post a {
 		margin: 20% auto 0;
 		width: 86%;
 	}
-	.about-text-w3ls {
+	.about-text-propz project {
 		width: 100%;
 	}
 	.about-bottom {
@@ -1796,12 +1796,12 @@ p.post a {
 		float: left;
 		width: 50%;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -300px;
 		background-size: cover;
 		min-height: 221px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 91px 0;
 	}
@@ -1810,10 +1810,10 @@ p.post a {
 	.sb-search-input {
 		font-size: 13px;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 365px;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 36%;
 	}
 	.arrow {
@@ -1822,12 +1822,12 @@ p.post a {
 	.about-bottom {
 		padding:70px 0;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -300px;
 		background-size: cover;
 		min-height: 200px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 81px 0;
 	}
@@ -1871,13 +1871,13 @@ p.post a {
 	.navbar-nav {
 		margin: 0;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 344px;
 	}
-	.banner-w3l h3 {
+	.banner-propz project h3 {
 		padding-top: 10%;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		font-size: 37px;
 	}	
 	.news-2, .news-3 {
@@ -1931,7 +1931,7 @@ p.post a {
 	.contact-middle h4 {
 		margin-bottom: 5px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -280px;
 		background-size: cover;
 		min-height: 200px;
@@ -1953,24 +1953,24 @@ p.post a {
 	}
 }
 @media screen and (max-width: 667px){
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -89px;
 		background-size:cover;
 	}
-	.banner-btm-left-w3ls, .banner-btm-right-w3ls {
+	.banner-btm-left-propz project, .banner-btm-right-propz project {
 		width: 100%;
 		padding: 0 15px;
 	}
-	.banner-btm-left-w3ls{
+	.banner-btm-left-propz project{
 		margin-bottom:30px;
 	}
 	.stats-grid {
 		font-size: 50px;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits {
+	.footer-left-agile, .footer-middle-pp-agileits {
 		padding: 20px 0;
 	}
-	.footer-right-w3layouts {
+	.footer-right-PROPZ Project {
 		padding: 42px 25px;
 	}
 
@@ -1994,12 +1994,12 @@ p.post a {
 	.ih-item.circle.effect1 .info span {
 		margin: 0 9px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -251px;
 		background-size: cover;
 		min-height: 180px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 70px 0;
 	}
@@ -2015,7 +2015,7 @@ p.post a {
 		width: 40%;
 		float:left;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 326px;
 	}
 	.service-grids {
@@ -2030,7 +2030,7 @@ p.post a {
 		background-size: cover;
 		padding: 45px 0;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -237px;
 		background-size: cover;
 		min-height: 180px;
@@ -2049,11 +2049,11 @@ p.post a {
 	.label {
 		font-size: 63%;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits {
+	.footer-left-agile, .footer-middle-propz-agileits {
 		width: 50%;
 		float: left;
 	}
-	.footer-right-w3layouts {
+	.footer-right-PROPZ Project {
 		padding: 30px 25px;
 		width: 70%;
 		margin: 0 auto;
@@ -2062,10 +2062,10 @@ p.post a {
 
 }
 @media screen and (max-width: 600px){
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 300px;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 42%;
 		font-size: 33px;
 	}
@@ -2076,7 +2076,7 @@ p.post a {
 		font-size: 14px;
 		padding: 6px 8px;
 	}
-	.banner-btm-w3-agile, .services-wthree, .services-bottom, .w3layouts-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-w3layouts {
+	.banner-btm-propz-agile, .services-propz project, .services-bottom, .Propz project-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-PROPZ Project {
 		padding: 40px 0;
 	}
 	.service-grids {
@@ -2086,7 +2086,7 @@ p.post a {
 		font-size: 45px;
 	}
 
-	.about-left-w3-agileits {
+	.about-left-propz-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 400px;
@@ -2095,12 +2095,12 @@ p.post a {
 		width: 78%;
 	}
 
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -195px;
 		background-size: cover;
 		min-height: 172px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 66px 0;
 	}
@@ -2121,7 +2121,7 @@ p.post a {
 		width: 50%;
 		float: left;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 278px;
 	}
 	label.line {
@@ -2129,10 +2129,10 @@ p.post a {
 		width: 9%;
 		margin: 25px auto;
 	}
-	.banner-btm-left-w3ls h4, .service-grids h4, .services-bottom-right h4, .services-bottom-left h4, h3.agileits-icons-title, .typography h3.head-top, .about-text-w3ls h4 {
+	.banner-btm-left-propz project h4, .service-grids h4, .services-bottom-right h4, .services-bottom-left h4, h3.agileits-icons-title, .typography h3.head-top, .about-text-propz project h4 {
 		font-size: 21px;
 	}
-	.about-social-icons-w3-agile ul li .fa {
+	.about-social-icons-propz-agile ul li .fa {
 		padding:8px;
 	}
 
@@ -2160,15 +2160,15 @@ p.post a {
 		width: 55%;
 		float: left;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		min-height: 278px;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -51px;
 		background-size: cover;
 		min-height: 255px;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 45%;
 		font-size: 30px;
 	}
@@ -2210,7 +2210,7 @@ p.post a {
 	.ser-info h3 {
 		font-size: 2.3em;
 	}
-	.about-left-w3-agileits {
+	.about-left-propz-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 340px;
@@ -2231,12 +2231,12 @@ p.post a {
 	.contact-agile h4 {
 		font-size: 22px
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -150px;
 		background-size: cover;
 		min-height: 158px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 56px 0;
 	}
@@ -2264,20 +2264,20 @@ p.post a {
 		width: 61%;
 		float: left;
 	}
-	.banner-w3l h3 {
+	.banner-propz project h3 {
 		font-size:21px;
 		padding-top: 5%;
 	}
-	.banner-w3l h2 {
+	.banner-propz project h2 {
 		width: 49%;
 		font-size: 26px;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -38px;
 		background-size: cover;
 		min-height: 226px;
 	}
-	.banner-btm-left-w3ls h3, .services-wthree h3, .footer-middle-w3-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-wthree h2,.team-section h2,.sub-banner-wthree h3,.about-bottom h3{
+	.banner-btm-left-propz project h3, .services-propz project h3, .footer-middle-propz-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-propz project h2,.team-section h2,.sub-banner-propz project h3,.about-bottom h3{
 		font-size: 30px;
 	}
 	.stats-grid {
@@ -2286,11 +2286,11 @@ p.post a {
 	.stats p {
 		font-size: 14px;
 	}
-	.footer-left-agile, .footer-middle-w3-agileits,.footer-right-w3layouts {
+	.footer-left-agile, .footer-middle-propz project-agileits,.footer-right-propz project {
 		width: 100%;
 		float: none;
 	}
-	.footer-right-w3layouts {
+	.footer-right-propz project {
 		margin:20px 0 0 0;	
 	}
 
@@ -2301,27 +2301,27 @@ p.post a {
 		padding: 9px 11px;
 		font-size: 13px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -125px;
 		background-size: cover;
 		min-height: 140px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 52px 0;
 	}
 }
 @media screen and (max-width: 384px){
-	.banner-w3l {
+	.banner-propz {
 		background: url(../images/banner.jpg) no-repeat 0px -18px;
 		background-size: cover;
 		min-height: 226px;
 	}
-	.banner-w3l h3 {
+	.banner-propz project h3 {
 		font-size: 19px;
 		padding-top: 8%;
 	}
-	.banner-btm-w3-agile, .services-wthree, .services-bottom, .w3layouts-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-w3layouts {
+	.banner-btm-propz-agile, .services-propz project, .services-bottom, .propz project-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-propz project {
 		padding: 35px 0;
 	}
 	.small-img {
@@ -2344,7 +2344,7 @@ p.post a {
 		padding: 9px 11px;
 		font-size: 11px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -107px;
 		background-size: cover;
 		min-height: 140px;
@@ -2360,15 +2360,15 @@ p.post a {
 	}
 }
 @media screen and (max-width: 375px){
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -18px;
 		background-size: cover;
 		min-height: 221px;
 	}
-	.banner-btm-left-w3ls h3, .services-wthree h3, .footer-middle-w3-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-wthree h2,.team-section h2,.sub-banner-wthree h3,.about-bottom h3{
+	.banner-btm-left-propz project h3, .services-propz project h3, .footer-middle-propz-agileits h3, .services-bottom h3,.subscribe h3 ,.sub-banner-propz project h2,.team-section h2,.sub-banner-propz project h3,.about-bottom h3{
 		font-size: 27px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -107px;
 		background-size: cover;
 		min-height: 127px;
@@ -2386,10 +2386,10 @@ p.post a {
 	.nav > li > a {
 		padding: 15px 4px;
 	}
-	.banner-w3l h3 {
+	.banner-propz project h3 {
 		padding-top: 7%;
 	}
-	.banner-w3l h2 {
+	.banner-propz h2 {
 		width: 59%;
 		font-size: 23px;
 		padding: 4px 0;
@@ -2397,7 +2397,7 @@ p.post a {
 	label.line {
 		margin: 18px auto;
 	}
-	.banner-w3l {
+	.banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 201px;
@@ -2429,13 +2429,13 @@ p.post a {
 	.callbacks_nav {
 		top: 50%;
 	}
-	.about-w3layouts h3 {
+	.about-PROPZ Project h3 {
 		font-size: 22px;
 	}
 	 .about-bottom h3{
 		font-size:22px;
 	}
-	.about-left-w3-agileits {
+	.about-left-propz-agileits {
 		background: url(../images/about.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 250px;
@@ -2452,12 +2452,12 @@ p.post a {
 		padding: 9px 5px;
 		font-size: 11px;
 	}
-	.sub-banner-wthree {
+	.sub-banner-propz project {
 		background: url(../images/banner.jpg) no-repeat 0px -80px;
 		background-size: cover;
 		min-height: 122px;
 	}
-	.sub-banner-wthree h2, .sub-banner-wthree h3 {
+	.sub-banner-propz project h2, .sub-banner-propz project h3 {
 		color: #e6e6e6;
 		padding: 45px 0;
 	}
@@ -2466,7 +2466,7 @@ p.post a {
 		background-size: cover;
 		min-height: 151px;
 	}
-	.banner-btm-w3-agile, .services-wthree, .services-bottom, .w3layouts-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-w3layouts {
+	.banner-btm-propz-agile, .services-propz project, .services-bottom, .PROPZ Project-gal, .contact-agile, .blog-section, .team-section, .main-grid-border, .about-PROPZ Project {
 		padding: 30px 0;
 	}
 	.subscribe{
