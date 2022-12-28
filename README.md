@@ -43,8 +43,10 @@ This is a web based application developed for fashion related based website in i
 
 
 ### Gallery -
+![Screenshot_20221228_204041](https://user-images.githubusercontent.com/115779688/209833198-7267a716-4cc9-434d-9956-f79c5d416082.png)
 
 
+![Screenshot_20221228_204633](https://user-images.githubusercontent.com/115779688/209833319-ce58f2e4-8dc1-4744-9872-e76208b0fb96.png)
 
 ### Contact  -
 
