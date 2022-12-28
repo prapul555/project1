@@ -44,9 +44,8 @@ This is a web based application developed for fashion related based website in i
 
 
  ### Gallery -
-![Screenshot 2022-12-28 at 9 51 11 PM](https://user-images.githubusercontent.com/115779688/209841890-3e97830e-67a3-481a-89a8-6b9cdd4fadb3.png)
 ![Screenshot 2022-12-28 at 9 50 27 PM](https://user-images.githubusercontent.com/115779688/209841707-832639d1-d49a-4252-b067-b6111580771c.png)
-
+![Screenshot 2022-12-28 at 9 51 11 PM](https://user-images.githubusercontent.com/115779688/209841890-3e97830e-67a3-481a-89a8-6b9cdd4fadb3.png)
 
 ### Contact  -
 ![Screenshot 2022-12-28 at 9 20 12 PM](https://user-images.githubusercontent.com/115779688/209837875-d5ffe0e8-ded2-44b7-b283-baa93463cc38.png)
