@@ -1,4 +1,4 @@
-# # ✨  PROPZ ✨
+#  ✨  PROPZ ✨
 
 This is a web based application developed for fashion related based website in india
 
@@ -13,15 +13,16 @@ This is a web based application developed for fashion related based website in i
 
 - Static web apps
 - Health bot
+- Cloud services
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, fashion topics and fashion related information etc.
+- Has collection of many web pages including Home, About Us, Contact, Fashion topics and Fashion related information etc.
 - User can know about Fashion information through this website.
-- Included the feedback Survey form to increase the scope of improvement and developmet
+- Included the feedback Survey form to increase the scope of improvement and developmet 
 
 ## Screenshots -
 ![Screenshot 2022-12-28 at 7 11 03 PM](https://user-images.githubusercontent.com/115779688/209821130-e309d6d8-1288-40c8-863d-352da8b68fb2.png)
@@ -49,6 +50,8 @@ This is a web based application developed for fashion related based website in i
 ![Screenshot_20221228_204633](https://user-images.githubusercontent.com/115779688/209833319-ce58f2e4-8dc1-4744-9872-e76208b0fb96.png)
 
 ### Contact  -
+![Screenshot 2022-12-28 at 9 20 12 PM](https://user-images.githubusercontent.com/115779688/209837875-d5ffe0e8-ded2-44b7-b283-baa93463cc38.png)
+
 
 
 
