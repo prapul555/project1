@@ -18,7 +18,7 @@ This is a web based application developed for health related based website in in
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- Has collection of many web pages including Home, About Us, Contact, fashion topics and fashion related information etc.
 - User can know about Fashion information through this website.
 - Included the feedback Survey form to increase the scope of improvement and developmet
 
