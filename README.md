@@ -7,8 +7,7 @@ This is a web based application developed for fashion related based website in i
 
 **Project Link** - https://lemon-moss-00c9b9600.2.azurestaticapps.net/
 
-**project demo video link** - 
-
+**project demo video link** - https://youtu.be/hE9DGr3x9yw
 ## Azure technologies used for Project
 
 - Static web apps
