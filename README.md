@@ -5,9 +5,9 @@ This is a web based application developed for fashion related based website in i
 ### This web based fashion application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://lemon-moss-00c9b9600.2.azurestaticapps.net/
+**Project Link** -  https://lemon-moss-00c9b9600.2.azurestaticapps.net/
 
-**project demo video link** - https://youtu.be/hE9DGr3x9yw
+**project demo video link** -  https://youtu.be/hE9DGr3x9yw
 ## Azure technologies used for Project
 
 - Static web apps
