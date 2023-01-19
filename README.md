@@ -52,7 +52,7 @@ This is a web based application developed for fashion related based website in i
 
 
 
-###  Bot  -
+### Health Bot  -
 ![Screenshot 2022-12-28 at 7 14 41 PM](https://user-images.githubusercontent.com/115779688/209821513-2cb669fe-63c0-44f4-87d1-99d7d7348071.png)
 
 
