@@ -23,10 +23,13 @@ This is a web based application developed for fashion related based website in i
 - User can know about Fashion information through this website.
 - Included the feedback Survey form to increase the scope of improvement and developmet 
 
-## Screenshots -
-![Screenshot 2022-12-28 at 7 11 03 PM](https://user-images.githubusercontent.com/115779688/209821130-e309d6d8-1288-40c8-863d-352da8b68fb2.png)
-![Screenshot 2022-12-28 at 7 12 11 PM](https://user-images.githubusercontent.com/115779688/209821185-a8396379-7822-4969-991b-d7d7c80df219.png)
-![Screenshot 2022-12-28 at 7 12 36 PM](https://user-images.githubusercontent.com/115779688/209821311-4054d323-6a3f-451e-ae05-c39ed4ae1698.png)
+## Screenshots  
+
+##Home  -
+![Screenshot 2023-01-19 at 4 15 34 PM](https://user-images.githubusercontent.com/115779688/213422411-a276e4cb-3633-4854-8941-3f1065440831.png)
+![Screenshot 2023-01-19 at 4 15 58 PM](https://user-images.githubusercontent.com/115779688/213422487-79775b5c-88c1-426f-8d1c-4083113e3651.png)
+![Screenshot 2023-01-19 at 4 16 37 PM](https://user-images.githubusercontent.com/115779688/213422626-4a9d399e-1b02-45ba-bb78-8ae6f77157de.png)
+
 
 
 
@@ -34,26 +37,19 @@ This is a web based application developed for fashion related based website in i
    
 
 ### About  -
-![Screenshot 2022-12-28 at 7 13 49 PM](https://user-images.githubusercontent.com/115779688/209821394-8f004f12-6306-48c9-b36f-bd798a21acc9.png)
-           
- ![Screenshot 2022-12-28 at 7 14 13 PM](https://user-images.githubusercontent.com/115779688/209821452-956f6f68-59f2-4d7b-bc0d-37a89648944c.png)
 
           
 
 
 
  ### Gallery -
-![Screenshot 2022-12-28 at 9 50 27 PM](https://user-images.githubusercontent.com/115779688/209841707-832639d1-d49a-4252-b067-b6111580771c.png)
-![Screenshot 2022-12-28 at 9 51 11 PM](https://user-images.githubusercontent.com/115779688/209841890-3e97830e-67a3-481a-89a8-6b9cdd4fadb3.png)
 
 ### Contact  -
-![Screenshot 2022-12-28 at 9 20 12 PM](https://user-images.githubusercontent.com/115779688/209837875-d5ffe0e8-ded2-44b7-b283-baa93463cc38.png)
 
 
 
 
 ### Health Bot  -
-![Screenshot 2022-12-28 at 7 14 41 PM](https://user-images.githubusercontent.com/115779688/209821513-2cb669fe-63c0-44f4-87d1-99d7d7348071.png)
 
 
 
